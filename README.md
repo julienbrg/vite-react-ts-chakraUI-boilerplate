@@ -1,4 +1,4 @@
-# Regicide Companion Plus
+# Boilerplate
 
 This boilerplate includes:
 - Vite
